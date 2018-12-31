@@ -23,9 +23,9 @@ Company Page Data Structure
 Each post by a company on their company page in Facebook is published on the main page accessible using the URL form http://www.facebook.com/<company_page_name>. There are variations on how content gets published on a company page. Some companies only allow authorized personnel to post content, while others are open to all users in Facebook.
 
 Below is the structure of posts for a company page:
-<p>
+<pre>
 	dsfsdf
-</p>
+</pre>
 - Company A Page
 -> Page Post by Company or Customer
 	-> Page Post Comments

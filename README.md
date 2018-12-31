@@ -24,8 +24,6 @@ Each post by a company on their company page in Facebook is published on the mai
 
 Below is the structure of posts for a company page:
 <pre>
-	dsfsdf
-</pre>
 - Company A Page
 -> Page Post by Company or Customer
 	-> Page Post Comments
@@ -52,4 +50,4 @@ Below is the structure of posts for a company page:
 	...
 ...
 - ...
-
+</pre>
